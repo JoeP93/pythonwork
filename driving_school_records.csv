@@ -1,3 +1,6 @@
 Timestamp,Student Name,Age,Score,Status,Details,Error Log Summary
 08/18/2026 11:50 PM,Joe Pedersen,32,0,FAILED,FAILED due to a Dangerous Action: Almost hit another vehicle / used instructor brake,Left Turns (Major): -6 pts | Wide | DANGEROUS ACTION in Right Turns: Almost hit another vehicle / used instructor brake
 08/23/2026 11:04 AM,jp,32,90,PASSED,PASSED OFFICIAL SKILLS TEST,Lane Travel (Major): -4 pts | vis | Left Turns (Major): -6 pts | wide
+08/23/2026 11:35 AM,Joe Pedersen,Age: 32,96,PASSED,PASSED OFFICIAL SKILLS EXAM RUN,• Backing (MINOR): -2 pts | • Backing (MAJOR): -2 pts
+08/23/2026 11:48 AM,Joe Pedersen,Age: 32,90,PASSED,PASSED OFFICIAL SKILLS EXAM RUN,• Backing (MAJOR): -4 pts | • Parallel Parking (MINOR): -2 pts | • Traffic Control Devices (MAJOR): -4 pts
+08/23/2026 11:48 AM,Joe Pedersen,Age: 32,90,PASSED,PASSED OFFICIAL SKILLS EXAM RUN,• Backing (MAJOR): -4 pts | • Parallel Parking (MINOR): -2 pts | • Traffic Control Devices (MAJOR): -4 pts
