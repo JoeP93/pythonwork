@@ -4,3 +4,6 @@ Timestamp,Student Name,Age,Score,Status,Details,Error Log Summary
 08/23/2026 11:35 AM,Joe Pedersen,Age: 32,96,PASSED,PASSED OFFICIAL SKILLS EXAM RUN,• Backing (MINOR): -2 pts | • Backing (MAJOR): -2 pts
 08/23/2026 11:48 AM,Joe Pedersen,Age: 32,90,PASSED,PASSED OFFICIAL SKILLS EXAM RUN,• Backing (MAJOR): -4 pts | • Parallel Parking (MINOR): -2 pts | • Traffic Control Devices (MAJOR): -4 pts
 08/23/2026 11:48 AM,Joe Pedersen,Age: 32,90,PASSED,PASSED OFFICIAL SKILLS EXAM RUN,• Backing (MAJOR): -4 pts | • Parallel Parking (MINOR): -2 pts | • Traffic Control Devices (MAJOR): -4 pts
+08/25/2026 09:42 PM,Joe Pedersen,Age: 32,11/02/2027,0,FAILED,FAILED due to an automatic Dangerous Action violation.,Clean Driving Sheet Logged
+08/25/2026 09:59 PM,Joe,Jimmy Dean,Age: 16,02/03/2027,84,PASSED,PASSED OFFICIAL SKILLS TEST,• Left Turns (DP): -6 pts | • Right-of-Way (DP): -4 pts | • General Driving Performance (DP): -4 pts | • Mechanical Operation (LS): -1 pts | • Mechanical Operation (DP): -1 pts [CAPPED]
+08/25/2026 10:21 PM,Joe,John,33,11/02/2027,92,PASSED,• Left Turns (DP - Wide): -6 pts | • Left Turns (LS - Wide): -0 pts [CAPPED] | • Stop Signs/ Flashing Lights (CP - Sl (Stop Line)): -2 pts
